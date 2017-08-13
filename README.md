@@ -1,9 +1,1 @@
-# Bootstrap Portfolio
-
-Credit goes to RCP Student [Nathaniel Quashie](http://github.com/bklynate) for his exemplary Bootstrap Portfolio. This reference solution is essentially [his submission for the Unit 2 homework assignment](https://github.com/bklynate/bootstrap-bp).
-
-- - -
-
-### Copyright
-
-Copyright © Coding Boot Camp 2016. All Rights Reserved.
+Welcome to my Portfolio Page. Here you will find my work and completed projects. You will also be able to connect to my linkedIn account and github repository. 
