@@ -134,9 +134,12 @@ html {
 
 .connect-with-me-photo {
   width: 55px;
-
   /* Box-model */
   height: 55px;
+}
+
+#stack {
+  opacity: 0.2;
 }
 
 #images {
@@ -291,6 +294,11 @@ html {
 
   /* Positioning */
   margin-bottom: 15px;
+}
+
+.disabled {
+  pointer-events: none;
+  cursor: default;
 }
 
 /* --------END--------- */
